@@ -1,0 +1,42 @@
+Em que ano o transistor foi invetado?
+1947
+No contexto computacional, o que significa o acrônimo RAM?
+Random Access Memory
+Qual linguagem de computação que recebeu o nome da primeira mulher programadora?
+ADA
+A unidade de controle (UCP) e responsável por buscar instruções na memória principal e determinar seu tipo. (True or False)
+True
+Qual o significado do acrônimo "ASCII"?
+American Standard Code for Information
+Quantos bits o codigo ASCII utiliza atualmente para representar caracteres? (Apenas o número)
+8
+Quem inventou a linguagem C?
+Dennis Ritchie
+Qual nome do inventor da linguagem python?
+Guido Van Rossum
+Qual o significado da sigla TCP?
+Transmission Control Protocol
+Quem é o criador da World Wide Web?
+Tim BernersLeecs
+Nome da linguagem de marcação utilizada na web?
+HTML
+Utilizado para dar estilo a páginas Web?
+CSS
+Nome do conector utilizado em cabos de rede do tipo par trançado?
+RJ45
+Inventor do Facebook?
+Mark Zuckerberg
+Dispositivo de hardware físico que funciona para receber dados de um provedor de serviços de Internet através de um meio de conexão como cabos, fios ou fibra óptica?
+Modem
+Rede Social de networking profissional?
+Linkedin
+Centro de pesquisa e inovação fundado pelos professores do Cin Silvio Meira, Fábio Silva e Ismar Kaufman?
+CESAR
+Qual o significado do acrônimo CPU?
+Central process unit
+Qual o significado do acrônimo "ROM"?
+Read only Memory
+O ibm 5150 foi o primeiro computador programável? (True or False)
+False
+Qual foi o primeiro computador programável?
+Eniac
